@@ -10,7 +10,7 @@
 
 ## 🔗 Connect with me
 - ResearchGate: https://www.researchgate.net/profile/Mirfarogh-Zeinalian
-- Linkdin: https://www.linkedin.com/in/farogh-zeinali
+- LinkedIn: https://www.linkedin.com/in/farogh-zeinali
   
 ## 🛠 Skills
 - Python (beginner)
